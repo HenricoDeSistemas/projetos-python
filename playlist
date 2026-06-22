@@ -1,0 +1,7 @@
+print("Baroes Da Pisadinha As Melhores")
+playlist = ["Musica 1 - Ta Rocheda" , "Musica 2 - Ja Que Me Ensinou A Beber", "Musica 3 - Esquema Preferido"]
+atual = int(input("digite o numero da musica"))
+indice = atual -1
+print(f"Tocando Agora: {playlist[indice]}")
+print("Musica Anterior: --(Inicio Da Plylist)")
+print("=" * 40)
